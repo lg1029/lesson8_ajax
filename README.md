@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (In this project I was tasked with using TMDB's API in my java code to display six different features of any movie title entered into the program.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://lg1029.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
 1. (In this lesson I learned how to request an API from TMDB website.)
